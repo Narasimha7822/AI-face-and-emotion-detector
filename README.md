@@ -1,0 +1,2 @@
+# AI-face-and-emotion-detector
+here we are working out to get more than just the emotion of face.we are also trying to get more than a emotion like also predicting the gender,age,nationality,percentage breakdown of different emotion signs,race at its best and we are also trying by using live webcam and knowing the emotion of a person,if the expression of a person changes then the emotion showing in the screen also changes not only just a offline picture.
